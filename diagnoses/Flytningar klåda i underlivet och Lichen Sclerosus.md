@@ -1,0 +1,44 @@
+# Flytningar, klåda i underlivet och Lichen Sclerosus.
+
+URL: https://www.praktiskmedicin.se/sjukdomar/flytningarklada-i-underlivet-vulvovaginit/
+
+
+
+Kategori: Mobilt BankID på annan enhet
+
+#### Inget hittades
+
+## Orsak
+
+Se respektive avsnitt i detta kapitel: Candidavulvovaginit (vanligaste orsaken till klåda hos kvinnor i fertil ålder), Bakteriell vaginos (”BV” i nedanstående tabell), Urogenital atrofi. För könssjukdomar som Klamydia, Genital Herpes simplex, Kondylom, Gonorré och Trikomonas se respektive avsnitt i kapitlet Venerologi.
+Klåda i vulvaområdet kan också orsakas av neurodermit [= lichen simplex/kroniskt riveksem] (intensiv, kronisk klåda – även nattetid), lichen sclerosus (konstant och svår klåda, värst om natten), lichen planus, psoriasis, skabb, seborrhoiskt – eller atopiskt eksem liksom kontakteksem (såväl allergiskt eksem [svampläkemedel, latex i kondom, lokalanestetika, neomycin] som det vanligare irritativa eksemet [tvättning, ridning/cykling, svampläkemedel, podofyllotoxin vid kondylombehandling]).
+Enligt www.cancercentrum.se: ”Följande symtom hos kvinnor över 40 år eller med nedsatt immunförsvar utan annan uppenbar förklaring bör föranleda misstanke om vulvacancer: I vulva – sår som inte läker, knöl eller långvarig sveda som inte svarar på behandling, misstanke om malignt melanom vid undersökning eller knöl i ljumsken.”
+
+## Utredning
+
+Flytning: Fråga efter debut, mängd, lukt, färg, karaktär, periodicitet, andra symtom som blödning, smärta, klåda. Inspektion avseende sår, vårtor, blåsor, rivmärken, missfärgningar, löss eller skabb. Ta PCR-prov för både klamydia och gonorré.
+Slemhinnor: Rodnad, svullnad/ödem, atrofi, hyperplasi, beläggningar, sår, blekhet/vita partier, främmande kropp?
+Hud: Atrofi? Hyperplasi? Hyperkeratos? Enstaka kliande områden – frikostighet med stansbiopsi i lite lokalbedövning med frågeställningen ”VIN?” (=vulvadysplasi). Vid misstanke om systemisk grundsjukdom undersöks hela hudkostymen: Atopiskt eksem ger hos vuxna förändringar runt mun, ögon, hals. Seborroiskt eksem visar förändringar i ögonbryn, vid näsvingar, bakom öronen. Psoriasis (invers psoriasis vanligast) visar avgränsade förändringar även perianalt, under bröst, i ljumskar och axiller. Lichen simplex vanligast hos atopiker. Ofta även förändringar/klåda i nacke. Lichen sclerosus visar välangränsande lichenifierade plack på rodnad botten, ibland sprickor och sår. Förändringar anogenitalt samt runt klitoris (ibland med synekier) liksom att de inre blygdläpparna ibland kan försvinna. Höjd risk för skivepitelcancer. Förändringar även på bål och extremiteter. Stansbiopsi. Lichen planus kan finnas även som välavgränsade papler volart på handleder, underarmar och på underbenens framsidor. Vid erosiva formen även rodnad i gingiva med också vita stråk i kindslemhinna (”mjölkstänk”).
+Wet smear: Vaginalsekretet inspekteras med hänsyn till mängd, karaktär (homogent, flockigt, vattnigt, muköst), färg och lukt. Gulgrönaktig färg på vaginaltork mot portio tyder på purulent sekretion från cervix. Lite vaginalsekret samlas i spekulum. pH bestäms med pH-sticka. 2 droppar sekret överförs till två separata objektglas, späds med fysiologisk koksaltlösning resp. 10–20 % kaliumhydroxid (KOH). Undersöks i ljusmikroskop med 40 X objektiv. Alkalisering med KOH medför ibland frisättning av illaluktande aminer – tecken på BV. I KOH-droppen slås cellväggar sönder och man kan lättare hitta eventuella pseudohyfer vid candidainfektion (ser ut som ”trädgrenar”). I koksaltpreparatet bedömer man förekomst av ökad mängd inflammatoriska celler (fler leukocyter än epitelcellerna), ev. trikomonas (rörlig päronformad flagellat), clue cells (ökad mängd coccer, dvs. bakterier adherant till vaginalepitelets cellyta), normalflora med laktobaciller (stavformade) eller blandflora med kocker.
+Övrig laboratoriediagnostik: Vid okomplicerade genitala infektioner: Hb, P-glukos och urinsticka. Vid misstanke om vulvacancer skall patienten remitteras till gynekologisk undersökning och biopsi. Vid välgrundad misstanke remitteras patienten enligt standardiserat vårdförlopp.
+
+## Behandling
+
+Infektion behandlas på adekvat sätt. Vid hyperkeratos eller eksem som ger klåda ges kortikosteroider gr II–III lokalt, nedtrappas under 2–3 veckor. Obs! Salva, ej kräm! Mjukgörande med t ex vaselin 2 ggr dagligen. Vid allergiskt eksem elimination av provocerande faktor. Ev. remiss till hudläkare för epikutantest.
+Lichen sclerosus ska PAD-verifieras och sedan behandlas med salva Dermovat enligt särskilt 12 veckors schema (1–4:e veckan Dermovat på kvällen före sänggåendet, 5–8:e veckan Dermovat varannan dag, 9–12:e veckan Dermovat två gånger i veckan). Sedan underhållsbehandling 1gång/vecka. Dermovatmängd motsvarande halva fingertoppsytan. Mjukgörande behandling 2 ggr dagligen (ex.v. vitt vaselin). Använd olja i stället för tvål och vatten. Lichen sclerosus har ett samband med vulvadysplasi och sår som inte läker ska alltid bli föremål för PAD. Risken för steroidatrofi är liten i vulvaområdet om hyperkeratos föreligger. Underlivet skall tvättas med oparfymerad olja i stället för med tvål, i allmänt mjukgörande syfte.
+Egenvård: Normalt förekommer hos kvinnor en ljus luktfri flytning som ej skall behandlas. Underlivet skall normalt tvättas högst 1 gång/dag. Använd helst bara vatten. Tvål ska inte användas i vulvaområdet. Oparfymerad olja eller rengöringsprodukter särskilt avsedda för vulva kan användas. Duscha inte med vatten upp i slidan, använd inte heller tampong eller parfymerade servetter vid besvär. Som mjukgörande vid torrhet/klåda rekommenderas olja, vitt vaselin eller Locobase Repair.
+
+## Fördjupning
+
+Cancercentrum:
+Läkemedelsboken: 
+Svensk förening för obstetrik och gynekologi arbets- och referensgrupp för vulvasjukdomar. 
+Patientinformation: www.doktorn.com
+ 
+
+## PM-medlemskap
+
+Medlemskapet är kostnadsfritt och du loggar in smidigt och tryggt med ditt BankID.
+
+## Nya behandlingsöversikter
+
